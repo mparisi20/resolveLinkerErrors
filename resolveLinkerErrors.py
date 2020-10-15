@@ -3,7 +3,6 @@
 
 # usage: resolveLinkerErrors.py <error_file> <asm_dir>
 
-
 import argparse
 import subprocess
 
